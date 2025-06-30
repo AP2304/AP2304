@@ -5,9 +5,12 @@
   <br>
 🎯 Open to internships and collaborative projects.
 </p>
---
+
+---
+
 - 📫 **How to reach me:** [atharvpunekar23@gmail.com](mailto:atharvpunekar23@gmail.com)
---
+
+---
 
 ## 🌐 Connect with me
 <p align="left">
