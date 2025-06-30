@@ -1,50 +1,50 @@
-# Hi 👋, I'm Atharv Punekar
+<h1 align="center">Hi 👋, I'm Atharv Punekar</h1>
 
-🎓 3rd Year Computer Engineering Student  
-💻 Passionate about Web Development, Data Visualization, and DSA  
-✨ Skilled in React, Next.js, HTML, CSS, JavaScript, Power BI, DBMS  
-🧩 Strong foundation in OOP, Computer Networks (CN), and Operating Systems (OS)  
-🌱 Currently learning advanced DSA and building interactive projects  
-🎯 Open to internships and collaborative projects
-
----
-
-## 📫 How to reach me
-
-- 📧 Email: [atharvpunekar23@gmail.com](mailto:atharvpunekar23@gmail.com)
+<p align="center">
+🎓 3rd Year Computer Engineering Student skilled in React, Next.js, HTML, CSS, JavaScript, Power BI, DBMS, and DSA.  
+✨ Strong foundation in OOP, Computer Networks (CN), and Operating Systems (OS).  
+🎯 Open to internships and collaborative projects.
+</p>
 
 ---
 
-## 🤝 Connect with me
+- 📫 **How to reach me:** [atharvpunekar23@gmail.com](mailto:atharvpunekar23@gmail.com)
 
+---
+
+## 🌐 Connect with me
 <p align="left">
-  <a href="https://github.com/AP2304" target="_blank"><img src="https://img.shields.io/badge/GitHub-AP2304-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/atharv-punekar-4ba340257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/atharv-punekar-4ba340257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AP2304" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AP2304-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 Languages and Tools
-
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DBMS-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CN-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-grey?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="dbms" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/data-structure.png" alt="DSA" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png" alt="OOP" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/network-card.png" alt="CN" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/laptop-settings.png" alt="OS" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📈 GitHub Stats
-
-![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AP2304&show_icons=true&theme=radical)
-
----
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AP2304&show_icons=true&theme=radical" alt="Atharv's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP2304&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
