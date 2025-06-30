@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/atharv-punekar-4ba340257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> 
   
   <a href="https://github.com/AP2304" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AP2304-black?style=for-the-badge&logo=github" alt="GitHub"/>
