@@ -14,19 +14,21 @@
 
 ## 🌐 Connect with me
 <p align="left">
+
   <a href="https://www.linkedin.com/in/atharv-punekar-4ba340257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-  
-  <a href="https://github.com/AP2304" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AP2304-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  
-  <!--<a href="https://leetcode.com/your-leetcode-username" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>-->
-  
+
+  <a href="https://github.com/AP2304" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AP2304-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+  </a>
+
 </p>
+
 
 
 ---
