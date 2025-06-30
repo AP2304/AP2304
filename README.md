@@ -12,7 +12,6 @@
 ## 📫 How to reach me
 
 - 📧 Email: [atharvpunekar23@gmail.com](mailto:atharvpunekar23@gmail.com)
-- 🌐 LinkedIn: [AtharvPunekar](https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/atharv-punekar-4ba340257)
 
 ---
 
