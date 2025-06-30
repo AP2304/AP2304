@@ -51,6 +51,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
 
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   </a>
@@ -75,8 +79,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
 
 </p>
