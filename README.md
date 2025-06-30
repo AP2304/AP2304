@@ -6,11 +6,7 @@
 🎯 Open to internships and collaborative projects.
 </p>
 
----
-
 - 📫 **How to reach me:** [atharvpunekar23@gmail.com](mailto:atharvpunekar23@gmail.com)
-
----
 
 ## 🌐 Connect with me
 <p align="left">
@@ -26,8 +22,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
-
----
 
 ## 💻 Languages and Tools
 <p align="left">
@@ -89,7 +83,6 @@
   </a>
 
 </p>
-
 
 ## 📈 GitHub Stats
 <p align="left">
