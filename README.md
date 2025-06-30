@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv Punekar</h1>
 
 <p align="center">
-🎓 3rd Year Computer Engineering Student.
+*🎓 Final Year Computer Engineering Student.*
   <br>
-🎯 Open to internships and collaborative projects.
+*🎯 Open to internships and collaborative projects.*
 </p>
 
 - 📫 **How to reach me:** [atharvpunekar23@gmail.com](mailto:atharvpunekar23@gmail.com)
