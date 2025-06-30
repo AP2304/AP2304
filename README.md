@@ -88,6 +88,6 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AP2304&show_icons=true&theme=merko" alt="Atharv's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AP2304&show_icons=true&theme=tokyonight" alt="Atharv's GitHub stats"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP2304&layout=compact&theme=default" alt="Top Languages"/>-->
 </p>
