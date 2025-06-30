@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharv Punekar</h1>
 
 <p align="center">
-🎓 3rd Year Computer Engineering Student skilled in React, Next.js, HTML, CSS, JavaScript, Power BI, DBMS, and DSA.  
-✨ Strong foundation in OOP, Computer Networks (CN), and Operating Systems (OS).  
+🎓 3rd Year Computer Engineering Student.
+  <br>
 🎯 Open to internships and collaborative projects.
 </p>
 
@@ -35,8 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="dbms" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/data-structure.png" alt="DSA" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png" alt="OOP" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/network-card.png" alt="CN" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/laptop-settings.png" alt="OS" width="40" height="40"/>
 </p>
