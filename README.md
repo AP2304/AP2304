@@ -88,6 +88,6 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AP2304&show_icons=true&theme=radical" alt="Atharv's GitHub stats"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP2304&layout=compact&theme=radical" alt="Top Languages"/>-->
+  <img src="https://github-readme-stats.vercel.app/api?username=AP2304&show_icons=true&theme=vue" alt="Atharv's GitHub stats"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP2304&layout=compact&theme=default" alt="Top Languages"/>-->
 </p>
