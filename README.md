@@ -22,7 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+  <a href="https://leetcode.com/u/oXmeqoIUEM/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
