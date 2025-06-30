@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharv Punekar</h1>
 
 <p align="center">
-  <strong><span style="font-size: 20px;">🎓 Final Year Computer Engineering Student.</span></strong><br>
-  <strong><span style="font-size: 20px;">🎯 Open to internships and collaborative projects.</span></strong>
+  <strong><span style="font-size: 30px;">🎓 Final Year Computer Engineering Student.</span></strong><br>
+  <strong><span style="font-size: 30px;">🎯 Open to internships and collaborative projects.</span></strong>
 </p>
 
 - 📫 **How to reach me:** [atharvpunekar23@gmail.com](mailto:atharvpunekar23@gmail.com)
