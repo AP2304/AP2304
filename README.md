@@ -86,5 +86,5 @@
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AP2304&show_icons=true&theme=dark" alt="Atharv's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP2304&layout=compact&theme=vue" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP2304&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
